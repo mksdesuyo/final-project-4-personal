@@ -1,0 +1,46 @@
+.nav-tgl-btn {
+  background: whitesmoke;
+}
+
+.offcanvas {
+  background: whitesmoke;
+}
+
+.arrow-class {
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+}
+
+.arrow {
+  width: 60px;
+  background-color: #59c1bd;
+}
+
+.cuaca {
+  background-color: #1f93dc;
+  width: 16.5rem;
+}
+
+#icon {
+  width: 3rem;
+  height: 3rem;
+}
+
+#atas {
+  background-color: #0d4c92;
+}
+
+#bawah {
+  background-color: whitesmoke;
+}
+
+#map {
+  height: 50vh;
+  width: 100%;
+  z-index: 0;
+}
+
+.leaflet-popup-content-wrapper {
+  width: 100%;
+}
